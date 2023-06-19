@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I have an interdisciplinary background and the aspiration to develop machine learning-driven simulation methods to promote drug discovery and answer critical life chemistry problems.
+
 **Research Interest**:
 *Theoretical and Computational Chemistry, Molecular Simulation, Bioinformatics, Machine Learning*
 
@@ -32,6 +33,7 @@ I have an interdisciplinary background and the aspiration to develop machine lea
     **Theoretical Chemistry-Related**: Mathematics in Chemistry, Physical Chemistry, Molecular Spectroscopy and Molecular Structure (In progress), Chemical Application of Group Theory (In progress), Thermodynamics and Statistical Physics (In progress)
 
     **Biological Chemistry-Related**: Fundamentals of Life Chemistry, Biophysical Chemistry (In progress)
+    
     **Computer Science-Related**: Introduction to Computation, Data Structure and Algorithm, Probability Theory
     and Statistics, Introduction to Computer Systems, Fundamentals of Artificial Intelligence (In progress)
 
@@ -40,6 +42,7 @@ I have an interdisciplinary background and the aspiration to develop machine lea
 # 💻 Experience
 
 - *11/2022-present* **Development of Molecular Docking Models**
+
   Group Research, Instructed by Prof. Yi Qin Gao
 
   - Self-learned deep learning fundamentals, graph neural networks, deep generative models and related programing

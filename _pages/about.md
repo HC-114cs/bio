@@ -19,45 +19,39 @@ redirect_from:
 
 I have an interdisciplinary background and the aspiration to develop machine learning-driven simulation methods to promote drug discovery and answer critical life chemistry problems.
 
-**Research Interest**:
-*Theoretical and Computational Chemistry, Molecular Simulation, Bioinformatics, Machine Learning*
-
-# 📖 Educations
-
-- 09/2020 - 06/2024* **BSc in Chemisty** (minor in Computer Science and Technology) Peking University, Beijing  
-
-  - Overall GPA 3.31 & Senior GPA 3.81
-
-  - Selected Courses:
-
-    **Theoretical Chemistry-Related**: Mathematics in Chemistry, Physical Chemistry, Molecular Spectroscopy and Molecular Structure (In progress), Chemical Application of Group Theory (In progress), Thermodynamics and Statistical Physics (In progress)
-
-    **Biological Chemistry-Related**: Fundamentals of Life Chemistry, Biophysical Chemistry (In progress)
-    
-    **Computer Science-Related**: Introduction to Computation, Data Structure and Algorithm, Probability Theory
-    and Statistics, Introduction to Computer Systems, Fundamentals of Artificial Intelligence (In progress)
-
-- *09/2017 - 07/2020*, High School, The High School Affiliated to Renmin University of China
 
 # 💻 Experience
 
-- *11/2022-present* **Development of Molecular Docking Models**
+- **Development of a Flexible-Receptor Molecular Docking Method** *11/2022-present*
 
-  Group Research, Instructed by Prof. Yi Qin Gao
+  Undergraduate Research, Instructed by Prof. Yi Qin Gao
+  
+  - Developed DSDPflex, a GPU-accelerated flexible-receptor docking program derived from DSDP; implemented receptor side-chain sampling, scoring, and gradient optimization on GPU (CUDA).
+  - Designed and implemented specific optimizations for flexible-receptor tasks that help address some observed issues in current methods, improving the docking accuracy significantly.
+  - Constructed a new cross-docking dataset for comprehensive evaluations of flexible-receptor docking methods, more diverse and challenging than commonly used sets, and tested DSDPFlex with mainstream methods.
+  - Validated that DSDPFlex outperformed AutoDock Vina in flexible-receptor docking accuracies while presenting ∼250-fold acceleration (∼1 second per task on 1 GPU).
+  - Authored a paper on this project. (preparing for submission)
 
-  - Self-learned deep learning fundamentals, graph neural networks, deep generative models and related programing
-    frameworks/libraries.
-  - Investigated the recent achievements of deep generative models for molecular docking, and made a literature
-    report (about DiffDock) at the group meeting.
-  - Participated in the implementation of a generative docking model with the induced-fit paradigm. (In Progress)
-  - Performed docking tests with AutoDock Vina and ADFR, proving the significance of flexible side chains while
-    comparing their performance.
-  - Engaged in the development of a flexible-docking program with several optimizations by GPU acceleration,
-    enhanced sampling and deep learning. (In Progress)
-  - Technical Skills: C++, Python (with PyTorch, PyG etc.), AutoDock Suite
-
-# 🔥 News
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ChemRxiv</div><img src='images/flex.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DSDPFlex: An Improved Flexible-Receptor Docking Method with GPU Acceleration](https://chemrxiv.org/engage/chemrxiv/article-details/656469905bc9fcb5c97a9fc0)
+
+**Chengwei Dong**, YuPeng Huang, Xiaohan Lin, Hong Zhang\*, Yi Qin Gao\*
+
+- Fast, Accurate, and Generalizable.
+- Molecular Docking; GPU Acceleration; Virtual Screening
+</div>
+</div>
+
+# 📖 Educations
+
+- *09/2020 - 07/2024*, **B.S. in Chemisty**, Peking University, Beijing  
+
+
+# 🔥 News
 
 # 🎖 Honors and Awards

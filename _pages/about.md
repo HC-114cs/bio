@@ -22,9 +22,9 @@ I have an interdisciplinary background and the aspiration to develop machine lea
 
 # 💻 Experience
 
-- **Development of a Flexible-Receptor Molecular Docking Method** *11/2022-present*
+- **Development of a Flexible-Receptor Molecular Docking Method** *2/2023-present*
 
-  Undergraduate Research, Instructed by Prof. Yi Qin Gao
+  Undergraduate Researcher, Instructed by Prof. Yi Qin Gao, Peking University
   
   - Developed DSDPflex, a GPU-accelerated flexible-receptor docking program derived from DSDP; implemented receptor side-chain sampling, scoring, and gradient optimization on GPU (CUDA).
   - Designed and implemented specific optimizations for flexible-receptor tasks that help address some observed issues in current methods, improving the docking accuracy significantly.
@@ -32,6 +32,22 @@ I have an interdisciplinary background and the aspiration to develop machine lea
   - Validated that DSDPFlex outperformed AutoDock Vina in flexible-receptor docking accuracies while presenting ∼250-fold acceleration (∼1 second per task on 1 GPU).
   - Authored a paper on this project. (preparing for submission)
 
+
+- **Comparison of the Electrostatic Fields of Chorismate Mutases** *08/2023-09/2023*
+
+Summer Research Intern, Instructed by Prof. Anastassia N. Alexandrova, UCLA (remote)
+
+  - Investigated the previous research on the catalytic mechanism of Chorismate Mutase (CM) and learned to use Amber.
+  - Studied and retrieved representative enzyme structures from different CM families that were suitable for intra- and inter-class comparison.
+  - Prepared TSA-binding protein structures for subsequent molecular dynamics simulations, with AlphaFold prediction, structure alignment, and molecular docking for various systems.
+
+**Investigation on Deep Learning-Based Molecular Docking Models** *09/2022-01/2023*
+
+Undergraduate Researcher, Instructed by Prof. Yi Qin Gao, Peking University
+
+  - Learned the fundamentals of deep learning, graph neural networks, and generative models to under- stand the principles of the latest docking models.
+  - Investigated and tested deep learning-based molecular docking methods, e.g., GNINA, EquiBind, DiffDock.
+  - Presented an in-detail report about DiffDock at the group meeting, which was the state-of-the-art model.
 
 # 📝 Publications 
 
